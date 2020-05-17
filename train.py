@@ -17,7 +17,6 @@ import keras
 from tensorflow.keras.utils import plot_model
 from processData import dataset_selection
 from networks import vgg16_layers
-from networks import googlenet_layers
 from networks import evaluate_test
 from networks import select_optimiser
 
